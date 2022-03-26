@@ -57,7 +57,15 @@ npm install -g typescript && npm fund
 
 ## **Setup**
 
-Create TypeScript project (should be in ./ DIR):
+Initialization of the project (execution of the command should be in ./ DIR):
+
+```sh
+npm init
+# See `npm help init` for definitive documentation on these fields and exactly what they do.
+```
+
+Create TypeScript project (execution of the command should be in ./ DIR):
+
 ```sh
 tsc --init
 ```
