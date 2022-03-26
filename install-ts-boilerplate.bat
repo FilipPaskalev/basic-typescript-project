@@ -62,3 +62,5 @@ ECHO STATUS: TypeScript successful installed locally
 ECHO STATUS: Initializate TypeScript project
 CALL tsc --init
 ECHO STATUS: Initialization finish successful
+
+CALL npm init
