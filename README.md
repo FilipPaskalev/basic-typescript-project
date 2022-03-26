@@ -1,4 +1,4 @@
-# TypeScript clean template (**Windows version**)
+# TypeScript project template (**Windows version**)
 
 If you want just to build the project and don't want to read the README.md just start the bat file. It will build the project with name ***ts-boilerplate*** in the directory where is execute.
 
