@@ -33,10 +33,10 @@ Downloaded from [official source](https://nodejs.org/en/download/) OR use [CMD](
 # If you don't want to install NOdeJS globally, just remove -g
 
 #Global installation
-npm install -g npm && npm fund
+npm install -g npm
 
 # Local installation
-npm install npm && npm fund 
+npm install npm
 ```
 
 ### *Typescript*
@@ -47,10 +47,10 @@ If you choose different package manager, just before installation of [TypeScript
 
 ```sh
 # Local installation
-npm install typescript --save-dev && npm fund
+npm install typescript --save-dev
 
 # Global installation
-npm install -g typescript && npm fund
+npm install -g typescript
 ```
 
 ---
