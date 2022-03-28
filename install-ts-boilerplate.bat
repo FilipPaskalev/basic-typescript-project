@@ -50,12 +50,12 @@ ECHO STATUS: Build successful
 
 :INSTALL_NODE
 ECHO STATUS: Install NodeJS
-CALL npm install npm && npm fund
+CALL npm install npm
 ECHO STATUS: NodeJS successful installed locally
 
 :INSTALL_TS
 ECHO STATUS: Install TypeScript
-CALL npm install typescript && npm fund
+CALL npm install typescript
 ECHO STATUS: TypeScript successful installed locally
 
 :INIT_TS_PROJECT
